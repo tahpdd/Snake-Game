@@ -1,0 +1,8 @@
+# Local build and temporary files
+/build/
+/Build/
+/temp/
+/Temp/
+
+# Editor settings
+/.vscode/
